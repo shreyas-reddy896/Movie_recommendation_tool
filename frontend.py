@@ -16,8 +16,8 @@ def recommend(movie):
     return recommended_movies 
 
 # Load the movies dictionary
-movies_dict = pickle.load(open('C:\\Users\\shrey\\OneDrive\\Documents\\major projects\\Movie_recommender\\movies_diction.pkl', 'rb'))
-similar = pickle.load(open('C:\\Users\\shrey\\OneDrive\\Documents\\major projects\\Movie_recommender\\similarity.pkl', 'rb'))
+movies_dict = pickle.load<("Path to your pickle file(movies) created in main program")>
+similar = pickle.load<("Path to your pickle file(similarity) created in main program")>
 
 # Convert to DataFrame
 try:
