@@ -5,12 +5,12 @@ The Movie Recommender Tool is a machine learning-based application that provides
 
 Features:
 
-  Personalized movie recommendations based on user input
-  
-  Supports recommendation algorithms (Content-Based filtering)
-  
-  User-friendly interface for ease of use
-  
-  Fetches movie metadata such as genre, cast, and overview
-  
-  Scalable and customizable for different datasets
+    Personalized movie recommendations based on user input
+    
+    Supports recommendation algorithms (Content-Based filtering)
+    
+    User-friendly interface for ease of use
+    
+    Fetches movie metadata such as genre, cast, and overview
+    
+    Scalable and customizable for different datasets
